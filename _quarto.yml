@@ -1,19 +1,71 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "OurItalyInData.github.io"
+  open-graph: true
+  
+  # stuff
+  cookie-consent:
+    type: express
+    style: interstitial
+  reader-mode: true
+  back-to-top-navigation: true
+  bread-crumbs: false
+  
+  # navigation bar
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    background: primary
+    search: true
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://github.com/SimoneBrazzi/OIID/tree/main
+          - text: Report a Bug
+            href: https://github.com/SimoneBrazzi/OIID/issues
 
+    left:
+      - text: "Home"
+        href: index.qmd
+      - sidebar:istat
+      - sidebar:estat
+
+  sidebar:
+    - id: istat
+      title: "ISTAT"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: topics/istat
+    - id: estat
+      title: "ESTAT"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: topics/estat
+
+# execute
+execute:
+  eval: true
+  freeze: auto
+  cache: false
+  echo: true
+  message: false
+  warning: false
+
+# format
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [flatly, theme_light_custom.scss] 
+      dark: [darkly, theme_dark_custom.scss]
+    code-link: TRUE
+    code-fold: true
+    code-line-numbers: TRUE
+    code-copy: TRUE
+    highlight-style: monokai
     toc: true
 
 editor: visual
-
