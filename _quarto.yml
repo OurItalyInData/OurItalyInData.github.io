@@ -30,7 +30,13 @@ website:
       - text: "Home"
         href: index.qmd
       - sidebar:istat
+      - sidebar:inps
+      - sidebar:pnrr
       - sidebar:estat
+      - sidebar:ecb
+      - sidebar:fred
+      - sidebar:oecd
+      - sidebar:world_bank
 
   sidebar:
     - id: istat
@@ -45,6 +51,44 @@ website:
       background: light
       collapse-level: 2
       contents: topics/estat
+    - id: inps
+      title: "INPS"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: topics/inps
+    - id: pnrr
+      title: "PNRR"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: topics/pnrr
+    - id: ecb
+      title: "ECB"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: topics/ecb
+    - id: fred
+      title: "FRED"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: topics/fred
+    - id: oecd
+      title: "oecd"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: topics/oecd
+    - id: world_bank
+      title: "WORLD BANK"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: topics/world_bank
+    
+
 
 # execute
 execute:
