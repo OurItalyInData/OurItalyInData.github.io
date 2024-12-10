@@ -22,9 +22,9 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            href: https://github.com/SimoneBrazzi/OIID/tree/main
+            href: https://github.com/OurItalyInData/OurItalyInData.github.io
           - text: Report a Bug
-            href: https://github.com/SimoneBrazzi/OIID/issues
+            href: https://github.com/OurItalyInData/OurItalyInData.github.io/issues
 
     left:
       - text: "Home"
