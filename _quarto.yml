@@ -32,7 +32,7 @@ website:
       - sidebar:istat
       - sidebar:inps
       - sidebar:pnrr
-      - sidebar:estat
+      - sidebar:eurostat
       - sidebar:ecb
       - sidebar:fred
       - sidebar:oecd
@@ -45,12 +45,12 @@ website:
       background: light
       collapse-level: 2
       contents: topics/istat
-    - id: estat
+    - id: eurostat
       title: "ESTAT"
       style: "docked"
       background: light
       collapse-level: 2
-      contents: topics/estat
+      contents: topics/eurostat
     - id: inps
       title: "INPS"
       style: "docked"
@@ -76,7 +76,7 @@ website:
       collapse-level: 2
       contents: topics/fred
     - id: oecd
-      title: "oecd"
+      title: "OECD"
       style: "docked"
       background: light
       collapse-level: 2

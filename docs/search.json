@@ -1,0 +1,104 @@
+[
+  {
+    "objectID": "topics/eurostat/estat.html",
+    "href": "topics/eurostat/estat.html",
+    "title": "EUROSTAT test page",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Eurostat",
+      "EUROSTAT test page"
+    ]
+  },
+  {
+    "objectID": "topics/istat/istat.html",
+    "href": "topics/istat/istat.html",
+    "title": "ISTAT test page",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Istat",
+      "ISTAT test page"
+    ]
+  },
+  {
+    "objectID": "topics/oecd/oecd.html",
+    "href": "topics/oecd/oecd.html",
+    "title": "OECD test page",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Oecd",
+      "OECD test page"
+    ]
+  },
+  {
+    "objectID": "topics/fred/fred.html",
+    "href": "topics/fred/fred.html",
+    "title": "FRED test page",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Fred",
+      "FRED test page"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\nCode1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OurItalyInData.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nCode1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "topics/pnrr/pnrr.html",
+    "href": "topics/pnrr/pnrr.html",
+    "title": "PNRR test page",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Pnrr",
+      "PNRR test page"
+    ]
+  },
+  {
+    "objectID": "topics/world_bank/world_bank.html",
+    "href": "topics/world_bank/world_bank.html",
+    "title": "World Bank test page",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "World Bank",
+      "World Bank test page"
+    ]
+  },
+  {
+    "objectID": "topics/inps/inps.html",
+    "href": "topics/inps/inps.html",
+    "title": "INPS test page",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Inps",
+      "INPS test page"
+    ]
+  },
+  {
+    "objectID": "topics/ecb/ecb.html",
+    "href": "topics/ecb/ecb.html",
+    "title": "ECB test page",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Ecb",
+      "ECB test page"
+    ]
+  }
+]
