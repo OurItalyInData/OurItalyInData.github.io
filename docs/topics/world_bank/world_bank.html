@@ -152,10 +152,10 @@ cookieconsent.run({
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-estat" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">ESTAT</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-eurostat" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Eurostat</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-estat">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-eurostat">    
         <li class="dropdown-header">Eurostat</li>
         <li>
     <a class="dropdown-item" href="../../topics/eurostat/estat.html">
@@ -540,7 +540,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/OurItalyInData\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
