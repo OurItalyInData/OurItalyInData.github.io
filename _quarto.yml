@@ -46,7 +46,7 @@ website:
       collapse-level: 2
       contents: topics/istat
     - id: eurostat
-      title: "ESTAT"
+      title: "Eurostat"
       style: "docked"
       background: light
       collapse-level: 2
