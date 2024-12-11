@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://OurItalyInData.github.io/topics/eurostat/estat.html</loc>
+    <lastmod>2024-12-11T10:07:50.093Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OurItalyInData.github.io/topics/istat/istat.html</loc>
+    <lastmod>2024-12-11T15:34:52.714Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OurItalyInData.github.io/topics/oecd/oecd.html</loc>
+    <lastmod>2024-12-11T10:09:14.466Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OurItalyInData.github.io/topics/fred/fred.html</loc>
+    <lastmod>2024-12-11T10:08:07.638Z</lastmod>
+  </url>
+  <url>
     <loc>https://OurItalyInData.github.io/about.html</loc>
     <lastmod>2024-12-10T15:05:50.762Z</lastmod>
   </url>
   <url>
     <loc>https://OurItalyInData.github.io/index.html</loc>
     <lastmod>2024-12-10T15:05:50.762Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OurItalyInData.github.io/topics/pnrr/pnrr.html</loc>
+    <lastmod>2024-12-11T10:09:30.747Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OurItalyInData.github.io/topics/world_bank/world_bank.html</loc>
+    <lastmod>2024-12-11T10:10:10.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OurItalyInData.github.io/topics/inps/inps.html</loc>
+    <lastmod>2024-12-11T10:08:32.465Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OurItalyInData.github.io/topics/ecb/ecb.html</loc>
+    <lastmod>2024-12-11T10:07:42.158Z</lastmod>
   </url>
 </urlset>
